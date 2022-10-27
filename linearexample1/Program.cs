@@ -27,6 +27,12 @@ namespace linearexample1
                 else
                     Console.WriteLine("\nArray should have minimum 1 and maximum 20 element.\n");
             }
+            //accept array element
+            Console.WriteLine("");
+            Console.WriteLine("---------------------");
+            Console.WriteLine(" Enter Array Element ");
+            Console.WriteLine("---------------------");
+              
         }
         public void Main(string[] args)
 
